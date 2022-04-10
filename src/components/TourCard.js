@@ -1,6 +1,5 @@
 import React from "react";
 import { Paper, Grid, Typography, Box, Rating, createTheme, ThemeProvider } from "@mui/material";
-import beach from "../assets/beach.jpg";
 import AccessTimeIcon from "@mui/icons-material/AccessTime";
 
 const theme = createTheme({
